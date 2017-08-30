@@ -1,3 +1,3 @@
 # helloworld
-This is my first github repository~
+This is m first github repository~
 Hello everybody i'm editting my first readme
